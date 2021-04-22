@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+}
+
+h1{
+    font-size: 30px;
+}
+
+.line{
+    height: 6px;
+    background-color: black;
+    width: 100px;
+    margin: auto;
+}
+
+#Home{
+    height: 600px;
+    background-color: aqua;
+}
+
+#Apps{
+    height: 600;
+    background-color: indianred;
+}
+
+#appImg{
+    margin-right: 60px;
+}
+
+#Games{
+    height: 800;
+    background-color: aquamarine;
+}
+
+#Chatbot{
+    height: 800;
+    background-color: coral;
+}
